@@ -4,6 +4,8 @@
 
 技术栈：springboot、mybatis-plus、mysql、redis、maven、vue、elemrnt-plus
 
+QQ:3058733704
+
 ---
 
 ## 项目预览
